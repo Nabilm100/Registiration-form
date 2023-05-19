@@ -1,0 +1,1 @@
+<h2>User <?php echo e($user_name); ?> Registered</h2><?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/laravel/Assignment2/resources/views/email.blade.php ENDPATH**/ ?>
